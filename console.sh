@@ -14,7 +14,6 @@ setfont LatGrkCyr-12x33.psfu.gz
 cd
 neofetch"
 rm ~/archfiles/c2
-exit
 echo "All done -- Please reboot"
 EOT
 echo "Sourcing complete -- Please source c2 in the archfiles folder"
