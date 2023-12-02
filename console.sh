@@ -1,5 +1,5 @@
 sudo pacman -Syyu
-sudo pacman -S fish neofetch eza 
+sudo pacman -S fish neofetch eza lynx
 chsh -s $(which fish)
 touch ~/archfiles/c2
 chmod 755 ~/archfiles/c2
