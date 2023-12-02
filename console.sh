@@ -10,7 +10,7 @@ alias -s "lsg=eza -abFghHlimM --icons --group-directories-first --git --git-repo
 alias -s "back=cd $OLDPWD"
 echo >>~/.config/fish/config.fish "\
 cd /usr/share/kbd/consolefonts/
-setfont LatGrkCyr-12x33.psfu.gz
+setfont LatGrkCyr-12x22.psfu.gz
 cd
 neofetch"
 rm ~/archfiles/c2
